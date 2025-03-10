@@ -1,6 +1,6 @@
 - Hi, I’m Rafaela Vericimo Santana
 - I’m interested in Data Science
-- I’m currently Data Science
+- I’m student Data Science
 
 
 <!---
